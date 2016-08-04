@@ -1,7 +1,6 @@
-![GLADOS](http://i.imgur.com/3tTt43l.png "Glados Logo")
+![GLADOS](https://i.imgur.com/ztkbg9I.png "UBNL Logo")
 
-This organization stores all the code for the University at Buffalo's participation in the University Nanosat-8 program, funded by the US Airforce Research Lab and NASA. 
+This organization stores all the code for the University at Buffalo's Nanosatellite Laboratory, UBNL. 
 
 #Overview
-Our satellite, the Glint Analyzing Data Observation Satellite (GLADOS), is scheduled to be launched in 2017 by NASA. All work is done by UB students. Our flight-side software is written in C, and our ground station in Python. By demand of the AFRL, most code here is private, but if you're interested in contributing to the software development of GLADOS stop by Bell 250.
-
+We're a group of UB students that work on the software for the various satellites UBNL is currently developing. Our flight-side software framework is written in C++, and our mission control software in Python. By demand of the AFRL, all software on this page is private, but if you're interested in contributing to the development of UBNL software, stop by Hochstetter 333.
